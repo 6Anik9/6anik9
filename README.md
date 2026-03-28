@@ -53,8 +53,12 @@ I combine technical logic with a high-end creative eye:
 
 ### 📊 Performance & Ecosystem
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=6Anik9&theme=react-dark&area=true&hide_border=true&color=F75C7E&bg_color=0D1117" alt="Anik's Activity Graph" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117&cache_bust=123" alt="Anik's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117&cache_bust=123" alt="Anik's Top Languages" />
 </p>
 
 ---
