@@ -6,10 +6,10 @@
 
   <h1>✨ Assalamu Alaikum, I'm Anik Shaikh</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;UI+/+UX+Designer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;Designer;Beginner+Developer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
 
   <p align="center">
-    <i>"Representing Khulna’s elite digital aesthetic. Where good taste meets high-end code."</i>
+    <i>"Representing my self as a Bangladeshi devloper. Where good taste meets high-end code."</i>
   </p>
   
   <br/>
@@ -26,8 +26,8 @@
 ---
 
 ### 🏆 Featured Professional Project: Career Canvas (CV Maker)
-> **"Apne career ki pehchan, ab aapke hath mein."**
-> **Career Canvas** is a premium **CV Maker** designed for professionals who value high-end design. It transforms standard experience into a visual masterpiece.
+> **"Your career identity, now in your hands."**
+> **Career Canvas** is a premium CV Maker designed for professionals who value high-end design. It transforms standard experience into a visual masterpiece. 
 > *Status: Fully Deployed & Professional.*
 
 ---
@@ -49,7 +49,7 @@ I combine technical logic with a high-end creative eye:
 ---
 
 ### ⚠️ The Developer's Truth (Beginner Stage)
-> "Agar code chal raha hai, toh mujhe nahi pata kyun. Agar nahi chal raha, toh bhi mujhe nahi pata kyun—lekin main har roz seekh raha hoon."
+> "If the code works, I don't know why. If it doesn't work, I still don't know why—but I am learning every day."
 
 ---
 
@@ -59,13 +59,9 @@ I combine technical logic with a high-end creative eye:
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ANIK9&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&bg_color=0D1117" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=6ANIK9&theme=radical&hide_border=true&stroke=F75C7E&ring=F75C7E&background=0D1117" />
-</p>
-
 ---
 
-### 📫 Connect with the Creator
+### 📫 Let's Build the Future
 <p align="left">
   <a href="https://www.facebook.com/6mdaniksheikh9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/6mdaniksheikh9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
