@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="http://googleusercontent.com/profile/picture/3" width="100%" alt="Anik Shaikh Custom Banner" />
+  <img src="https://lh3.googleusercontent.com/d/15F3VkItpxdDt3W-6YOB9QAT2wXeKLDLL" width="100%" alt="Anik Shaikh Custom Banner" />
 
   <br/>
 
@@ -33,8 +33,6 @@
 ---
 
 ### 🛠️ The Stack
-I combine technical logic with a high-end creative eye:
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,figma,replit,github&theme=dark" />
 </p>
@@ -57,8 +55,8 @@ I combine technical logic with a high-end creative eye:
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117&cache_bust=123" alt="Anik's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117&cache_bust=123" alt="Anik's Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=react-dark&hide_border=true&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117" alt="Anik's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=react-dark&hide_border=true&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117" alt="Anik's Top Languages" />
 </p>
 
 ---
