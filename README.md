@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://lh3.googleusercontent.com/d/1qogPAegO-c6KHYJ48AQJRBCyAYQZp3oL" width="100%" alt="Anik Shaikh Custom Banner" />
+  <img src="https://lh3.googleusercontent.com/d/15F3VkItpxdDt3W-6YOB9QAT2wXeKLDLL" width="100%" alt="Anik Shaikh Custom Banner" />
 
   <br/>
 
@@ -57,8 +57,8 @@ I combine technical logic with a high-end creative eye:
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=transparent&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=transparent&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=dark&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=dark&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's Top Languages" />
 </p>
 
 ---
@@ -73,5 +73,7 @@ I combine technical logic with a high-end creative eye:
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=6Anik9&color=F75C7E&style=flat-square&label=PROFILE+VIEWS" alt="Anik's Profile Views" />
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer" width="100%" />
 </div>
