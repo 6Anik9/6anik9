@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;UI+/+UX+Designer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
 
   <p align="center">
-    <i>"A vision of elite digital aesthetics, where sophisticated taste meets high-end code."</i>
+    <i>"A vision of elite digital aesthetics, where good taste meets high-end code."</i>
   </p>
   
   <br/>
