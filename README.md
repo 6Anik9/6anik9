@@ -19,7 +19,7 @@
 ### 🖋️ My Narrative & Design Philosophy
 * ✍️ **The Storyteller:** I weave emotions into pixels, focusing on romantic narratives and the beauty of "New Beginnings."
 * 🎨 **Visual Aesthetic:** Specialist in **Modern Anime Aesthetics**—think cinematic lighting, depth, and atmospheric particles.
-* 💎 **The Designer's Eye:** I pride some on **Sophisticated Design Taste**. I focus on clean typography, balanced spacing, and high-end color palettes.
+* 💎 **The Designer's Eye:** I pride myself on **Sophisticated Design Taste**. I focus on clean typography, balanced spacing, and high-end color palettes.
 * 🎬 **Motion & Animation:** Expert at bringing designs to life with smooth transitions and cinematic movement.
 
 ---
@@ -48,10 +48,6 @@ I combine technical logic with a high-end creative eye:
 ### 📊 Performance & Ecosystem
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=6Anik9&theme=react-dark&area=true&hide_border=true&color=F75C7E&bg_color=0D1117" alt="Anik's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=dark&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's GitHub Stats" />
 </p>
 
 ---
