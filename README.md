@@ -6,10 +6,10 @@
 
   <h1>✨ Assalamu Alaikum, I'm Anik Shaikh</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;Designer;Beginner+Developer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;UI+/+UX+Designer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
 
   <p align="center">
-    <i>"Representing my self as a Bangladeshi devloper. Where good taste meets high-end code."</i>
+    <i>"Representing Khulna’s elite digital aesthetic. Where good taste meets high-end code."</i>
   </p>
   
   <br/>
@@ -55,8 +55,8 @@ I combine technical logic with a high-end creative eye:
 
 ### 📊 Performance & Ecosystem
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6ANIK9&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ANIK9&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&icon_color=F75C7E&bg_color=0D1117" />
 </p>
 
 ---
