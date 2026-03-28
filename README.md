@@ -24,23 +24,43 @@
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="35" /></td>
-    <td><img src="https://geps.dev/progress/100?barColor=F75C7E" width="250" /></td>
+    <td width="300">
+      <div style="width: 100%; background: #1a1a1a; border-radius: 10px; height: 8px; border: 1px solid #333;">
+        <div style="width: 100%; height: 100%; background: linear-gradient(90deg, #F75C7E, #ff8fa3); border-radius: 10px; box-shadow: 0 0 8px rgba(247, 92, 126, 0.5);"></div>
+      </div>
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="35" /></td>
-    <td><img src="https://geps.dev/progress/90?barColor=C70039" width="250" /></td>
+    <td>
+      <div style="width: 100%; background: #1a1a1a; border-radius: 10px; height: 8px; border: 1px solid #333;">
+        <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #C70039, #F75C7E); border-radius: 10px; box-shadow: 0 0 8px rgba(199, 0, 57, 0.4);"></div>
+      </div>
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="35" /></td>
-    <td><img src="https://geps.dev/progress/80?barColor=FFC300" width="250" /></td>
+    <td>
+      <div style="width: 100%; background: #1a1a1a; border-radius: 10px; height: 8px; border: 1px solid #333;">
+        <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #FFC300, #ffdb58); border-radius: 10px; box-shadow: 0 0 8px rgba(255, 195, 0, 0.4);"></div>
+      </div>
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=py" width="35" /></td>
-    <td><img src="https://geps.dev/progress/70?barColor=900C3F" width="250" /></td>
+    <td>
+      <div style="width: 100%; background: #1a1a1a; border-radius: 10px; height: 8px; border: 1px solid #333;">
+        <div style="width: 70%; height: 100%; background: linear-gradient(90deg, #900C3F, #C70039); border-radius: 10px; box-shadow: 0 0 8px rgba(144, 12, 63, 0.4);"></div>
+      </div>
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="35" /></td>
-    <td><img src="https://geps.dev/progress/55?barColor=581845" width="250" /></td>
+    <td>
+      <div style="width: 100%; background: #1a1a1a; border-radius: 10px; height: 8px; border: 1px solid #333;">
+        <div style="width: 55%; height: 100%; background: linear-gradient(90deg, #581845, #900C3F); border-radius: 10px; box-shadow: 0 0 8px rgba(88, 24, 69, 0.4);"></div>
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -53,7 +73,7 @@
   </a>
 </p>
 
-###  Telescope Current Project
+###  🔭 Current Project
 * ✨ **[My Wishes Site]** – A digital wishing well featuring personalized greetings and atmospheric effects.
 
 ### ⚠️ The Dev's Truth
