@@ -24,23 +24,23 @@
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="35" /></td>
-    <td><img src="https://progress-bar.dev/100/?scale=100&width=250&color=F75C7E" /></td>
+    <td><img src="https://geps.dev/progress/100?barColor=F75C7E" width="250" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="35" /></td>
-    <td><img src="https://progress-bar.dev/90/?scale=100&width=250&color=C70039" /></td>
+    <td><img src="https://geps.dev/progress/90?barColor=C70039" width="250" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="35" /></td>
-    <td><img src="https://progress-bar.dev/80/?scale=100&width=250&color=FFC300" /></td>
+    <td><img src="https://geps.dev/progress/80?barColor=FFC300" width="250" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=py" width="35" /></td>
-    <td><img src="https://progress-bar.dev/70/?scale=100&width=250&color=900C3F" /></td>
+    <td><img src="https://geps.dev/progress/70?barColor=900C3F" width="250" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="35" /></td>
-    <td><img src="https://progress-bar.dev/55/?scale=100&width=250&color=581845" /></td>
+    <td><img src="https://geps.dev/progress/55?barColor=581845" width="250" /></td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-### 🔭 Current Project
+###  Telescope Current Project
 * ✨ **[My Wishes Site]** – A digital wishing well featuring personalized greetings and atmospheric effects.
 
 ### ⚠️ The Dev's Truth
