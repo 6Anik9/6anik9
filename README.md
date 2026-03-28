@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ The Master Stack (Refined)
+### 🛠️ The Stack
 I combine technical logic with a high-end creative eye:
 
 <p align="left">
