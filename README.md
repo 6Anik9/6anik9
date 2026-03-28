@@ -1,79 +1,51 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM5N2JhMTFmYjI2YjZlMjBkZjQyZDU3ZjVhZmYyZjY5MzNlZmQ4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvJC/giphy.gif" width="600" />
 
-  <img src="https://lh3.googleusercontent.com/d/15F3VkItpxdDt3W-6YOB9QAT2wXeKLDLL" width="100%" alt="Anik Shaikh Custom Banner" />
-
-  <br/>
-
-  <h1>✨ Assalamu Alaikum, I'm Anik Shaikh</h1>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;UI+/+UX+Designer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
-
-  <p align="center">
-    <i>"A vision of elite digital aesthetics, where sophisticated taste meets high-end code."</i>
-  </p>
+  <h1>Assalamu Alaikum, I'm Anik Shaikh 👋</h1>
+  <p>Representing <b>Khulna’s elite digital aesthetic</b></p>
   
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Designer;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🖋️ My Narrative & Design Philosophy
-* ✍️ **The Storyteller:** I weave emotions into pixels, focusing on romantic narratives and the beauty of "New Beginnings."
-* 🎨 **Visual Aesthetic:** Specialist in **Modern Anime Aesthetics**—think cinematic lighting, depth, and atmospheric particles.
-* 💎 **The Designer's Eye:** I pride myself on **Sophisticated Design Taste**. I focus on clean typography, balanced spacing, and high-end color palettes that make every user experience feel "Premium."
-* 🎬 **Motion & Animation:** Expert at bringing designs to life with smooth transitions and cinematic movement.
+### 🚀 Featured Project: **Career Canvas (CV Maker)**
+*A professional tool designed to help creators build their identity.*
 
 ---
 
-### 🏆 Featured Professional Project: Career Canvas (CV Maker)
-> **"Your career identity, now in your hands."**
-> **Career Canvas** is a premium CV Maker designed for professionals who value high-end design. It transforms standard experience into a visual masterpiece. 
-> *Status: Fully Deployed & Professional.*
+### 💫 About Me:
+- 🔭 **Currently working on:** Career Canvas & refining digital aesthetics.
+- 🌱 **Learning:** Advanced Full-Stack patterns and AI integration.
+- 👯 **Collaboration:** Open for OpenSource projects that challenge the status quo.
+- 💬 **Ask me about:** Web development, UI/UX, or why my code finally worked.
+- 😄 **Pronouns:** He/Him
 
 ---
 
-### 🛠️ The Stack
-I combine technical logic with a high-end creative eye:
-
+### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,figma,replit,github&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,replit&theme=dark" />
+  </a>
 </p>
 
-* 🌐 **Frontend Artistry:** Crafting high-end web structures with **HTML5** and **CSS3**.
-* ⚡ **Interactive Logic:** Powering modern, animated web experiences with **JavaScript**.
-* 🎨 **Design Tools:** Using **Figma** and **Visual Studio Code** to maintain a "Class 2nd Premium" standard.
-* 🐍 **Scripting:** Solving complex logic and data problems with **Python**.
-
 ---
 
-### ⚠️ The Developer's Truth
-> "If the code works, I don't know why. If it doesn't work, I still don't know why—but I am learning every day."
-
----
-
-### 📊 Performance & Ecosystem
+### 📈 Activity Graph:
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=6Anik9&theme=react-dark&area=true&hide_border=true&color=F75C7E&bg_color=0D1117" alt="Anik's Activity Graph" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=6Anik9&show_icons=true&theme=dark&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6Anik9&layout=compact&theme=dark&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Anik's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6Anik9&theme=react-dark&area=true&hide_border=true&color=F75C7E&bg_color=0D1117&point=F75C7E" width="100%" />
 </p>
 
 ---
 
-### 📫 Let's Build the Future
+### 💡 Developer's Truth:
+> "My code doesn't work, I don't know why. My code works, I don't know why." 
+
+---
+
+### 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.facebook.com/6mdaniksheikh9" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/6mdaniksheikh9" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:6mdaniksheikh9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/6Anik9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="6Anik9" height="30" width="40" /></a>
+<a href="https://instagram.com/6Anik9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6Anik9" height="30" width="40" /></a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=6Anik9&color=F75C7E&style=flat-square&label=PROFILE+VIEWS" alt="Anik's Profile Views" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer" width="100%" />
-</div>
