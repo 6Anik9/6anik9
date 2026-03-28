@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://lh3.googleusercontent.com/d/1qogPAegO-c6KHYJ48AQJRBCyAYQZp3oL" width="100%" alt="Anik Shaikh Custom Banner" />
+  <img src="http://googleusercontent.com/profile/picture/3" width="100%" alt="Anik Shaikh Custom Banner" />
 
   <br/>
 
