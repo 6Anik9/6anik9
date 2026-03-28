@@ -21,13 +21,28 @@
 * 💻 **The Mission:** Learning to combine my love for storytelling with clean, animated code.
 
 ### 🚀 Skill Proficiency
-<pre>
-<b>HTML Layouts</b>      <img src="https://progress-bar.dev/100/?scale=100&width=200&color=F75C7E" />
-<b>Animation Quality</b> <img src="https://progress-bar.dev/90/?scale=100&width=200&color=C70039" />
-<b>JavaScript Logic</b>  <img src="https://progress-bar.dev/80/?scale=100&width=200&color=FFC300" />
-<b>CSS Styling</b>       <img src="https://progress-bar.dev/70/?scale=100&width=200&color=900C3F" />
-<b>Python Logic</b>      <img src="https://progress-bar.dev/55/?scale=100&width=200&color=581845" />
-</pre>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="35" /></td>
+    <td><img src="https://progress-bar.dev/100/?scale=100&width=250&color=F75C7E" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="35" /></td>
+    <td><img src="https://progress-bar.dev/90/?scale=100&width=250&color=C70039" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="35" /></td>
+    <td><img src="https://progress-bar.dev/80/?scale=100&width=250&color=FFC300" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="35" /></td>
+    <td><img src="https://progress-bar.dev/70/?scale=100&width=250&color=900C3F" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="35" /></td>
+    <td><img src="https://progress-bar.dev/55/?scale=100&width=250&color=581845" /></td>
+  </tr>
+</table>
 
 ---
 
