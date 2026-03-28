@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/XF3C2qJ/6-ANI-K9-Custom-Banner.png" width="100%" alt="6ANIK9 Banner" />
+  <img src="https://lh3.googleusercontent.com/d/1qogPAegO-c6KHYJ48AQJRBCyAYQZp3oL" width="100%" alt="Anik Shaikh Custom Banner" />
 
   <br/>
 
@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Career+Canvas+Architect;UI+/+UX+Designer;Cinematic+Visual+Artist;Creative+Storyteller" alt="Typing SVG" />
 
   <p align="center">
-    <i>"Representing Khulna’s elite digital aesthetic. Where good taste meets high-end code."</i>
+    <i>"A vision of elite digital aesthetics, where sophisticated taste meets high-end code."</i>
   </p>
   
   <br/>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🖋️ The Narrative & Design Philosophy
+### 🖋️ My Narrative & Design Philosophy
 * ✍️ **The Storyteller:** I weave emotions into pixels, focusing on romantic narratives and the beauty of "New Beginnings."
 * 🎨 **Visual Aesthetic:** Specialist in **Modern Anime Aesthetics**—think cinematic lighting, depth, and atmospheric particles.
 * 💎 **The Designer's Eye:** I pride myself on **Sophisticated Design Taste**. I focus on clean typography, balanced spacing, and high-end color palettes that make every user experience feel "Premium."
@@ -36,9 +36,7 @@
 I combine technical logic with a high-end creative eye:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,figma,replit,github&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,vscode,figma,replit,github&theme=dark" />
 </p>
 
 * 🌐 **Frontend Artistry:** Crafting high-end web structures with **HTML5** and **CSS3**.
@@ -48,7 +46,7 @@ I combine technical logic with a high-end creative eye:
 
 ---
 
-### ⚠️ The Developer's Truth (Beginner Stage)
+### ⚠️ The Developer's Truth
 > "If the code works, I don't know why. If it doesn't work, I still don't know why—but I am learning every day."
 
 ---
@@ -63,9 +61,9 @@ I combine technical logic with a high-end creative eye:
 
 ### 📫 Let's Build the Future
 <p align="left">
-  <a href="https://www.facebook.com/6mdaniksheikh9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/6mdaniksheikh9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:6mdaniksheikh9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/6mdaniksheikh9" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/6mdaniksheikh9" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:6mdaniksheikh9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <br/>
