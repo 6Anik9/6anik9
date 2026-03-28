@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://i.ibb.co/XF3C2qJ/6-ANIK9-Custom-Banner.png" alt="6ANIK9 Custom Banner" width="100%" />
+
+  <img src="https://i.ibb.co/XF3C2qJ/6-ANI-K9-Custom-Banner.png" width="100%" alt="6ANIK9 Banner" />
 
   <h1>✨ Hi there, I'm Anik</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Beginner+Developer;Wishes+Site+Creator;Creative+Storyteller;Digital+Art+Enthusiast" alt="Typing SVG" />
 
-  <p align="center">
+  <p>
     <i>"Transforming romantic storytelling and cinematic art into interactive web experiences."</i>
   </p>
   
